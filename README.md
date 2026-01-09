@@ -2,6 +2,12 @@
 
 A Python tool to export and merge Postman collections and environments from multiple workspaces using the Postman API.
 
+<div align="center">
+  <img src="assets/demo1.png" alt="Demo 1" width="45%">
+  <img src="assets/demo2.png" alt="Demo 2" width="45%">
+</div>
+
+
 ## Motivation
 
 Does your team use the free version of Postman? We do too. With the limit of 3 users per team, sharing and backing up collections became a frequent manual chore. 
