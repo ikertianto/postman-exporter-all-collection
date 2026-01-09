@@ -3,8 +3,8 @@
 A Python tool to export and merge Postman collections and environments from multiple workspaces using the Postman API.
 
 <div align="center">
-  <img src="assets/demo1.png" alt="Demo 1" width="45%">
-  <img src="assets/demo2.png" alt="Demo 2" width="45%">
+  <img src="assets/demo1_.png" alt="Demo 1" width="45%">
+  <img src="assets/demo2_.png" alt="Demo 2" width="45%">
 </div>
 
 
