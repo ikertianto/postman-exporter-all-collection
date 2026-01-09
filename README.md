@@ -70,7 +70,7 @@ COLLECTION_OUTPUT_FILE=merged_collection.json
 ENVIRONMENT_OUTPUT_DIR=environments
 
 # Optional: Target workspaces (comma-separated)
-TARGET_WORKSPACES=Servco DTE,CM,OSS
+TARGET_WORKSPACES=Workspace1,Workspace2,Workspace3
 
 # Optional: API timeout in seconds
 REQUEST_TIMEOUT=30
@@ -95,13 +95,13 @@ This will:
 
 **Output structure:**
 ```
-Linknet/
-├── Servco DTE/
+Postman Collections/
+├── Workspace1/
 │   ├── Collection 1
 │   └── Collection 2
-├── CM/
+├── Workspace2/
 │   └── Collection 3
-└── OSS/
+└── Workspace3/
     ├── Collection 4
     └── Collection 5
 ```
